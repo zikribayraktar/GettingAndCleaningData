@@ -20,7 +20,6 @@
 ##########################################################################
 
 # Step 0: Record date and R version:
-setwd('C:\\Users\\zikribayraktar\\SkyDrive\\Documents\\MOOC\\Coursera_03_Getting_and_Cleaning_Data\\data\\UCI_HAR_Dataset1')
 (ScriptRunDate <- date())
 (ScriptRunRversion <- R.version)
 
